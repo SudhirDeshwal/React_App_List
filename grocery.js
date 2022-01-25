@@ -13,13 +13,14 @@ const Header = (props) => {
       name: 'apple',
     },
     {
-      name: 'orange',
+      name: 'orange_update',
       
     },
     {
       name: 'cucumber',
     },
   ];
+
   
   ReactDOM.render(
     <Header title='Grocery List 2' items='4' />, 
